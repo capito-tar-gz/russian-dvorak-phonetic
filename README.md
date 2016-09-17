@@ -5,20 +5,14 @@ A Russian phonetic keyboard for Dvorak typists.
 
 I type in Dvorak on Mac OS, and there is no Russian phonetic option that maps to Dvorak keyboards. I've tried other solutions that have bugs, such as not mapping keys correctly on Shift or not having Dvorak when the Command key is held down. This is my solution for that.
 
+Check the `screenshots` folder for picture examples of the layout results, including with option keys.
+
 ## Installing
 
 1. Download the bundle file to your computer and drop it into the `/Library/Keyboard Layouts` folder. 
 2. Restart your computer.
 
 The keyboard should be available under the Russian language section of your keyboard layout settings.
-
-## Layouts
-
-![alt text](/screenshots/no-modifiers.png "With no modifier keys")
-![alt text](/screenshots/command-modifier.png "Command modifier")
-![alt text](/screenshots/shift-modifier.png "Shift modifier")
-![alt text](/screenshots/option-modifier.png "Option modifier")
-![alt text](/screenshots/shift-option-modifier.png "Shift option modifier")
 
 
 ## Unresolved issues.
