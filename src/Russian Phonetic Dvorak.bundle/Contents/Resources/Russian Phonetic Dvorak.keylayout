@@ -1,8 +1,8 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 3.1.0.108 on 2016-09-17 at 14:18 (GMT-7)-->
-<!--Last edited by Ukelele version 3.1.0.108 on 2016-09-17 at 15:51 (GMT-7)-->
-<keyboard group="126" id="-32418" name="Russian Phonetic Dvorak" maxout="1">
+<!--Last edited by Ukelele version 3.1.0.108 on 2016-09-19 at 10:26 (GMT-7)-->
+<keyboard group="126" id="-11212" name="Russian Phonetic Dvorak" maxout="1">
 	<layouts>
 		<layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
 		<layout first="18" last="18" mapSet="JIS" modifiers="Modifiers"/>
@@ -88,7 +88,7 @@
 			<key code="46" output="м"/>
 			<key code="47" output="в"/>
 			<key code="48" output="&#x0009;"/>
-			<key code="49" output=""/>
+			<key code="49" output=" "/>
 			<key code="50" output="щ"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="53" output="&#x001B;"/>
@@ -196,7 +196,7 @@
 			<key code="46" output="М"/>
 			<key code="47" output="В"/>
 			<key code="48" output="&#x0009;"/>
-			<key code="49" output=""/>
+			<key code="49" output=" "/>
 			<key code="50" output="Щ"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="53" output="&#x001B;"/>
@@ -478,7 +478,7 @@
 			<key code="46" output="m"/>
 			<key code="47" output="v"/>
 			<key code="48" output="&#x0009;"/>
-			<key code="49" output=""/>
+			<key code="49" output=" "/>
 			<key code="50" output="`"/>
 			<key code="51" output="&#x0008;"/>
 			<key code="53" output="&#x001B;"/>
@@ -685,7 +685,7 @@
 			<key code="46" output=""/>
 			<key code="47" output=""/>
 			<key code="48" output="&#x0009;"/>
-			<key code="49" output=""/>
+			<key code="49" output=" "/>
 			<key code="50" output=""/>
 			<key code="51" output="&#x0008;"/>
 			<key code="53" output="&#x001B;"/>
