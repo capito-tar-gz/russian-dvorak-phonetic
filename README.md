@@ -20,4 +20,5 @@ The keyboard should be available under the Russian language section of your keyb
 
 ## To-do
 * Create a version for the sort that uses the Dvorak keyboard with QWERTY command key options?
+* Add in accented characters to make it easy to show emphasized syllables, useful for teachers.
 * Testing!
